@@ -23,7 +23,7 @@ Ensure you have the following installed:
 Clone this repository and install the dependencies:
 
 ```bash
-git clone https://github.com/yourusername/playwright-demo.git
+git clone https://github.com/michelegarciaqa/playwright-demo
 cd playwright-demo
 npm install
 

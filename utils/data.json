@@ -1,0 +1,10 @@
+{
+    "userName": "standard_user",
+    "userPassword": "secret_sauce",
+    "expectedTittle": "Swag Labs",
+    "productName": "Sauce Labs Bolt T-Shirt",
+    "firstName": "Michele",
+    "lastName": "Garcia",
+    "zipCode": "SNT 9031",
+    "thankYouMessage": "Thank you for your order!"
+}
